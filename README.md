@@ -1,13 +1,13 @@
-# 🏃 Trainguy's Animation Overhaul
+# 🏃 Trainguy's Animation Overhaul With 1.20.5 supported!
 
-Repository for a 1.19.3+ Minecraft mod centered around improving the game's character animations via a realtime animation system, included in the Moonflower suite of mods. The primary focus is third and first person character animation improvements, and once those are done the mod will be released and I will move on to entity and block animations.
+Repository for a 1.20.5 Minecraft mod centered around improving the game's character animations via a realtime animation system, included in the Moonflower suite of mods. The primary focus is third and first person character animation improvements, and once those are done the mod will be released and I will move on to entity and block animations.
 
 > **Warning**
 > This project is still in heavy development! You are free to compile yourself and try it out, but keep in mind that there will be missing animations, placeholders, and debugging visuals that will not look correct. **This mod is not in a playable state!**
 
 ## 🔗 Socials
-- My Discord server: https://discord.gg/HRg4nxvWWW
-- My Twitter: https://twitter.com/Trainguy9512
+- His Discord server: https://discord.gg/HRg4nxvWWW
+- His Twitter: https://twitter.com/Trainguy9512
 - Moonflower Website: https://moonflower.gg/
 - Moonflower Twitter: https://www.moonflower.gg/twitter
 - Moonflower Discord: https://www.moonflower.gg/discord
@@ -31,7 +31,7 @@ Repository for a 1.19.3+ Minecraft mod centered around improving the game's char
 ## 🔍 FAQ
 
 - What versions of the game will this mod support?
-> For right now, the mod is being worked on in 1.19.3. Once I figure out better methods of version control for handling multiple versions, I would like to make the mod available on 1.18.2+, but this depends on whether 1.19's keyframed animation changes make me want to make 1.19.2 as the floor version. It will always support the latest release version of the game, barring huge rendering or animation changes.
+> I made it compatable with 1.20.5 now! ;)
 - Will the mod come to forge?
 > Yes, for the time being the mod is being developed on Fabric but the mod will eventually be moved back to an architectury project once the mod is finished enough to move back over to a pollen-based architectury project.
 - What will the mod require as a dependency?
