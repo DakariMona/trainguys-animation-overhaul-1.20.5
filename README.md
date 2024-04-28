@@ -1,3 +1,7 @@
+# WIP
+this fork is work in progress it's may not work
+currently I'm working on it
+
 # 🏃 Trainguy's Animation Overhaul With 1.20.5 supported!
 
 Repository for a 1.20.5 Minecraft mod centered around improving the game's character animations via a realtime animation system, included in the Moonflower suite of mods. The primary focus is third and first person character animation improvements, and once those are done the mod will be released and I will move on to entity and block animations.
